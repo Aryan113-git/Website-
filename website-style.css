@@ -1,0 +1,20 @@
+*{
+    margin: 5px;
+    font-size: 20px;
+}
+#t1{
+    margin-left: 28px;
+}
+#t2{
+    margin-left: auto;
+}
+#t3{
+    margin-left: 12px;
+}
+.bullets{
+    list-style-type: circle;
+    margin-left: 65px;
+}
+#list{
+    margin-left: 20px;
+}
